@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Bienvenidos a mi pagina
 
-You can use the [editor on GitHub](https://github.com/nexon94/ComportamientoOrg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+El comportamiento organizacional consiste en la dinámica de comportamiento que se produce entre los grupos y los individuos en el entorno laboral. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Los siguientes cinco elementos son clave para estudiar el comportamiento organizacional: las personas, la estructura organizacional, la tecnología disponible, el sistema social y el medio ambiente.
 
-### Markdown
+Comprender estos elementos y sus interrelaciones dinámicas puede ayudar a los líderes empresariales a alcanzar objetivos a corto y largo plazo para mejorar la productividad y el éxito de los empleados, informando sobre las estrategias de formación, desarrollo continuo, colaboración y los procesos de la fuerza de trabajo.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Importancia del comportamiento organizacional
+En esencia, el comportamiento organizacional analiza el efecto de los factores sociales y ambientales que afectan la forma de trabajar de los empleados o equipos. 
 
-```markdown
-Syntax highlighted code block
+La forma en que las personas interactúan, se comunican y colaboran es clave para el éxito de una organización y mejorar la eficacia y la eficiencia del personal. 
 
-# Header 1
-## Header 2
-### Header 3
+También puede ayudar a alcanzar los siguientes objetivos de cultura laboral y organizacional:
 
-- Bulleted
-- List
+-Mejorar la comunicación organizacional.
+-Crear un ambiente de trabajo confortable.
+-Lograr el estilo de gestión deseado.
+-Influir en las estrategias de Recursos Humanos.
+-Facilitar la resolución de conflictos.
 
-1. Numbered
-2. List
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="ComportOrg"
+  agent-id="48576872-2562-4f9c-8ea8-f2f6569c9dc5"
+  language-code="es"
+></df-messenger>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nexon94/ComportamientoOrg/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
